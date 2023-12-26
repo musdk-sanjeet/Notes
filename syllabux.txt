@@ -1,0 +1,439 @@
+https://www.selfstudys.com/gate/computer-science-engineering/online/exam/3-programming-data-structures
+Unit 1: Digital Logic
+---------------------
+1. Data and number systems;
+		a. Binary, 
+		b. Octal and Hexa decimal representation
+		c. their conversions
+
+2. BCD,ASCII, EBDIC, Gray codes and their conversions
+3. Signed binary number representation with 
+	a. 1’s and 2’s complement methods,
+	b. Binary arithmetic. 
+	c. Venn diagram, Boolean algebra
+4. Various Logic gates-their truth tables and circuits
+5. Representation in SOP and POS forms
+6. Minimization of logic expressions by algebraic method, Kmap method
+
+7. Combinational circuits-Adder and Subtractor circuits
+8. Applications and circuits of Encoder ,Decoder, Comparator ,Multiplexer,
+   De-Multiplexe rand Parity Generator. 
+9. Memory Systems:RAM ,ROM, EPROM, EEROM, Design of combinational 
+   circuits-using ROM, Programming logic devices and gate arrays.(PLAs and PLDs)
+
+10. Sequential Circuits-Basic memory element-S-R, J-K,D and T Flip Flops
+11. various types of Registers and counters and their design,Irregular counter,
+    State table and state transition diagram,sequential circuits design methodology.
+
+12. Different types of A/D and D/A conversion techniques. 
+13. Logic familiesTTL,ECL,MOS and CMOS, their operation and specifications.
+
+====================================================================================
+
+Unit 2:Computer Organization and Architecture
+----------------------------------------------
+1. Introduction to Data Representation and Number System: Introduction to
+Decimal, Binary, Octal, Hexadecimal number system, Conversation of number
+from one number system to another number system (like Decimal to Binary etc.),
+Binary Arithmetic: - Addition (Simple Method, Using 1’s Complement, Using
+2’sComplement method), Subtraction (Simple Method), Multiplication (Simple
+Method), Division (Simple Method)
+
+2. Different Codes Representation of Error Detection Codes: Parity Bit Method,
+Checksum Method, Representation of Error Correction Code: Hamming Code,
+Alphanumeric Codes: ASCII, EBCDIC, Excess – 3 Code, BCD Addition
+Method, Gray Code: Gray to Binary Conversion, Binary to Gray Conversion
+
+3. Introduction to Ideal Microcomputer, An Actual Microcomputer: CPU, Address
+Bus, Data Bus, Control Bus, Memory: RAM - SRAM, DRAM, ROM - PROM,
+EPROM, UVEPROM, EEPROM, History of Microprocessor, Microcontroller
+(Application Only), Addressing Techniques, Introduction To Digital
+Electronics, Logic Gates: Inverter, OR Gate, AND Gate, NOR Gate, NAND
+Gate, EX-OR Gate, EX-NOR Gate, De’Morgan’s Theorems
+
+4. Universal Gates (Only for Logic Conversion), K-Map Simplifications, Pair,
+Quad, Octet (upto 4 variables) Don’t Care Condition, Arithmetic Logic Unit:
+Half Adder, Full Adder, Binary Adder,2’s Complement Adder Subtractor
+
+====================================================================================
+
+
+Unit 3:Programming and data structure
+--------------------------------------
+1. Data, Entity, Information, Difference between Data and Information, Data type ,
+Build in data type, Abstract data type, Definition of data structures, Types of
+Data Structures: Linear and Non-Linear Data Structure, Introduction to
+Algorithms: Definition of Algorithms, Difference between algorithm and
+programs, properties of algorithm, Algorithm Design Techniques, Performance 
+Analysis of Algorithms, Complexity of various code structures, Order of
+Growth, Asymptotic Notations.
+
+2. Definition, Single and Multidimensional Arrays, Representation of Arrays:
+Row Major Order, and Column Major Order, Derivation of Index Formulae for
+1-D,2-D Array Application of arrays, Sparse Matrices and their representations.
+Recursion: recursion in C, example of recursion, Tower of Hanoi Problem,
+simulating recursion, Backtracking,, recursive algorithms, principles of
+recursion.
+
+3. Array Implementation and Pointer Implementation of Singly Linked Lists,
+Doubly Linked List, Circularly Linked List, Operations on a Linked List.
+Insertion, Deletion, Traversal, Polynomial Representation and Addition
+Subtraction & Multiplications of Single variable.
+
+4. Abstract Data Type, Primitive Stack operations: Push & Pop, Array and Linked
+Implementation of Stack in C, Application of stack: Prefix and Postfix
+Expressions, Evaluation of postfix expression, Iteration and RecursionPrinciples of recursion, 
+Tail recursion, Removal of recursion Problem
+
+5. solving using iteration and recursion with examples such as binary search,
+Fibonacci numbers, and Hanoi towers.
+
+6. Operations on Queue: Create, Add, Delete, Full and Empty, Circular queues,
+Array and linked implementation of queues in C, Dequeue and Priority Queue.
+
+7. Concept of Searching, Sequential search, Index Sequential Search, Binary
+Search. Concept of Hashing & Collision resolution Techniques used in Hashing.
+
+8. Insertion Sort, Selection Sort, Bubble Sort, Heap Sort, Comparison of Sorting
+Algorithms, Sorting in Linear Time: Counting Sort and Bucket Sort.
+
+9. Terminology used with Graph, Data Structure for Graph Representations:
+Adjacency Matrices, Adjacency List, Adjacency. Graph Traversal: Depth First
+Search and Breadth First Search, Connected Component.
+
+10. Basic terminology used with Tree, Binary Trees, Binary Tree Representation:
+Array Representation and Pointer (Linked List) Representation, Binary Search
+Tree, Complete Binary Tree, A Extended Binary Trees, Tree Traversal
+algorithms: Inorder, Preorder and Postorder, Constructing Binary Tree from
+given Tree Traversal, Operation of Insertion, Deletion, Searching &
+Modification of data in Binary Search Tree. Threaded Binary trees, Huffman
+coding using Binary Tree, AVL Tree and B Tree
+====================================================================================
+
+Unit 4:Algorithms
+-------------------
+
+1. Algorithm Analysis, Time Space Tradeoff, Asymptotic Notations, Conditional
+asymptotic notation, Removing condition from the conditional asymptotic
+notation, Properties of big-Oh notation.
+
+2. Recurrence equations, Solving recurrence equations, Analysis of linear search,
+Divide
+
+3. and Conquer: General Method, Binary Search, Finding Maximum and
+Minimum, Merge Sort.
+
+4. General Method, Multistage Graphs, All-Pair shortest paths, Optimal binary
+search trees.
+
+5. General Method, 8-Queens problem, Hamiltonian problem.
+
+6. Connected Components, Spanning Trees, Biconnected components,
+Introduction to NP Hard and NP-Completeness.
+
+====================================================================================
+
+Unit 5:Operating System 
+------------------------
+1. Introduction to OS – its functional behavior and responsibilities, Need for some
+of monitor / command interpreter, Types of operating systems, System structure,
+Hierarchical and layered organization of OS, I/O methods and interrupt
+structure.
+
+2. Process definition, Process states and state transitions, Parallel processes and
+constructs, Process interaction, Operating system kernel, Data structures for
+processes and resources, Context switching, Process control primitives, Process
+scheduling.
+
+3. The determinacy problem, Mutual exclusion, Semaphores, Process
+synchronization,
+
+4. Conditional critical regions and monitors, Inter-process communication,
+Deadlock problem and its solutions.
+
+5. Memory management concepts, Relocation, Linking, Multiprogramming with
+fixed
+
+6. partitions, Swapping, Variables partitions, Overlays, Virtual memory,
+Segmentation, Paging, Storage allocation strategies, Load control and thrashing
+
+7. Organization of file and I/O subsystems, Directory management, Basic file
+system, file descriptors, File manipulation, File organization methods,
+Management of auxiliary storage space, Command language and file system
+utilities, I/O subsystems, Programmed I/O, DMA, Interrupt driven I/O,
+Recovery procedures. Protection and Security: Safeguards, Penetration, Access
+and Information flow control, Protection problems, Formal models of
+protection.
+
+====================================================================================
+
+Unit 6:Database Management System
+----------------------------------
+1. Introduction to Database, components and structure of DBMS – logical
+structure – the 3 level architecture and mapping among them. Comparison
+between traditional file based system and DBMS. Advantages and drawbacks
+of DBMS.
+
+2. Relational Model - What is relational model, Relational key constraints –
+candidate key, primary key, foreign key.ER Model – entities, attributes,
+relationship, and cardinality. Entity types, Entity sets Attributes and Keys
+Relationship types, Relationship Sets, converting ER diagram to relational
+tables. Database Schema
+
+3. Database Anomalies, CODD Rules and Normalization theory, 1 NF, 2 NF, 3
+NF and BCNF.
+
+4. Introduction to transaction and concept of concurrency control. Transaction and
+system concepts, desirable properties of transactions, transaction support in
+SQL. Concurrency control techniques, the locking protocol, serializable
+schedules, locks, 2 phase commit. Techniques, concurrency control based on
+timestamp ordering
+
+====================================================================================
+
+Unit 7:Computer Network
+------------------------
+1. Introduction to Data Communication and Computer Network, Network
+Topologies, classification of computer network, Parallel & Serial Transmission,
+Transmission Models, Transmission Channel, Data Rate, Bandwidth Signal
+Encoding Schemes, Data Compression, Transmission Impairments, Layering
+and Design Issues, OSI Model and TCP/ IP model. 
+
+2. Data Link Layer: Need for Data Link Control, Frame Design Consideration,
+Flow Control & Error Control. MAC sublayer, contention based and polling
+based MAC protocols.
+
+3. Network Layer: Routing, Congestion control, Internetworking principles,
+Internet Protocols (IPv4, packet format, Hierarchal addressing sub netting, ARP,
+PPP), Bridges, Routers. Classless IP address.
+
+4. Datalink Layer: Process to process communication. Socket meaning and socket
+address. Upward and downwards multiplexing. UDP and TPDU.
+
+5. Application Layer: HTTP, FTP, Telnet, SMTP, SNMP
+
+====================================================================================
+
+Unit 8: Software Engineering
+----------------------------
+1. Introduction to Software Engineering: Characteristics, Emergence of Software
+Engineering, Software Metrics & Models, Process & Product Metrics. Software
+Life Cycle Models: Waterfall, Prototype and Spiral Models and their
+Comparison.
+
+2. Software Project Management: Size Estimation- LOC and FP Metrics, Cost
+Estimation-Delphi and Basic COCOMO, Introduction to Halstead’s Software
+Science, Staffing Level Estimation- Putnam’s Model. Software Requirements
+Specification: SRS Documents, their Characteristics and Organization.
+
+3. Software Design: Classification, Software Design Approaches, Function
+Oriented Software Design, Structured Analysis- Data flow Diagrams and
+Structured Design, Introduction to Object Oriented Design.
+
+4. Coding and Testing of Software: Unit Testing, Block Box Testing, White Box
+Testing, Debugging, Program Analysis Tools, System Testing. Software
+Reliability and Quality Assurance: Reliability Metric- Musa’s Basic Model.
+
+5. Software Quality Assurance: ISO 9000 and SEI CMM and their Comparison.
+Software Maintenance: Maintenance Process Models and Reverse Engineering,
+Estimation of Maintenance Costs.
+
+====================================================================================
+
+Unit 9: Object Oriented Programming
+------------------------------------
+1. Review of Fundamentals of Procedural Programming,
+2. Class and Objects,
+3. Data Abstraction,
+4. Information Hiding & Encapsulation,
+5. Constructors, destructors, and object creation,
+6. Name space and references ,
+7. Class Methods , Methods Overloading ,
+8. Inheritance ,
+9. Polymorphism ,
+10. Abstract Classes,
+11. Abstract Methods ,
+12. Exceptions , Exception Handling.
+
+====================================================================================
+
+Unit 10: Web-Based Application Development
+-------------------------------------------
+1. Internet Basics,
+2. Introduction to Web Development,
+3. Node.js and Git,
+4. HTML, CSS, JQuery,
+5. JavaScript and HTTP (forms),
+6. Sessions and HTTP, 
+7. Javascript & Document Object Model – DOM,
+8. Extensible Markup Language – XML,
+9. Document Type Definition - DTD Dreamweaver,
+10. PHP HyperText PreProcessor - PHP SQL & MySQL,
+11. Integrating PHP and MySQL,Database Interaction
+
+====================================================================================
+
+Unit 11: Theory of Computatio
+-------------------------------
+1. Introduction; Alphabets, Strings and Languages; Automata and Grammars,
+Deterministic finite Automata (DFA)-Formal Definition, Simplified notation:
+State transition graph, Transition table, Language of DFA, Non-deterministic
+finite Automata (NFA), NFA with epsilon transition, Language of NFA,
+Equivalence of NFA and DFA, Minimization of Finite Automata,
+Distinguishing one string from other.
+
+2. Regular expression (RE) , Definition, Operators of regular expression and their
+precedence, Algebraic laws for Regular expressions, Kleen’s Theorem, Regular
+expression to FA, DFA to Regular expression, Arden Theorem, Non Regular
+Languages, Pumping Lemma for regular Languages . Application of Pumping
+Lemma, Closure properties of Regular Languages, Decision properties of
+Regular Languages, FA with output: Moore and Mealy machine, Equivalence
+of Moore and Mealy Machine, Applications and Limitation of FA.
+
+3. Context free grammar (CFG) and Context Free Languages (CFL): Definition,
+Examples, Derivation ,Derivation trees, Ambiguity in Grammer, Inherent
+ambiguity, Ambiguous to Unambiguous CFG, Useless symbols, Simplification
+of CFGs, Normal forms for CFGs: CNF and GNF, Closure properties of CFLs,
+Decision Properties of CFLs: Emptiness, Finiteness and Memership, Pumping
+lemma for CFLs.
+
+4. Push Down Automata (PDA): Description and definition, Instantaneous
+Description, Language of PDA, Acceptance by Final state, Acceptance by
+empty stack, Deterministic PDA, Equivalence of PDA and CFG, CFG to PDA
+and PDA to CFG, Two stack PDA
+
+5. Turing machines (TM): Basic model, definition and representation,
+Instantaneous Description, Language acceptance by TM, Variants of Turing
+Machine, TM as Computer of Integer functions, Universal TM, Church’s Thesis,
+Recursive and recursively enumerable languages, Halting problem,
+Introduction to Undecidability, Undecidable problems about TMs. Post
+correspondence problem (PCP), Modified PCP, Introduction to recursive
+function theory
+
+====================================================================================
+
+Unit 12:Internet of Things
+----------------------------
+1. Definitions and Functional Requirements - Motivation - Architecture - Web 3.0
+View of IoT - Ubiquitous IoT Applications - Four Pillars of IoT - DNA of IoT
+-The Toolkit Approach for End-user Participation in the Internet of Things.
+Middleware for IoT: Overview -Communication middleware for IoT - IoT
+Information Security.
+
+2. Protocol Standardization for IoT - Efforts - M2M and WSN Protocols - SCADA
+and RFID Protocols- Issues with IoT Standardization - Unified Data Standards
+-Protocols -IEEE 802.15.4 - BACNet Protocol Modbus - KNX - ZigbeeNetwork layer - APS layer –Security.
+
+3. Web of Things versus Internet of Things - Two Pillars of the Web - Architecture
+standardization for WoT Platform Middleware for WoT - Unified Multitier
+WoT Architecture - WoT Portals and Business Intelligence. Cloud of Things: 
+Grid/SOA and Cloud Computing - Cloud Middleware - Cloud Standards -
+Cloud Providers and Systems - Mobile cloud Computing - The Cloud of Things
+Architecture.
+
+4. Industrial Internet of Things - Introduction to Industrial Internet of Things -
+Industrie 4.0 - Industrial Internet of Things (IIoT) - IIoT Architecture - Basic
+Technologies - Applications and Challenges - Security and Safety -
+Introduction to Security and Safety -Systems Security - Network Security -
+Generic Application Security - Application Process Security and Safety -
+Reliable-and-Secure-by-Design IoT Applications - Run-Time Monitoring -
+The ARMET Approach - Privacy and Dependability
+
+5. The Role of the Internet of Things for Increased Autonomy and Agility in
+Collaborative Production Environments -Resource Management in the Internet
+of Things: Clustering, Synchronization and Software Agents. Applications -
+Smart Grid -Electrical Vehicle charging
+
+====================================================================================
+
+Unit 13:Artificial Intelligence
+--------------------------------
+
+1. INTRODUCTION TO Al AND PRODUCTION SYSTEMS: Introduction to
+AI-Problem formulation, Problem Definition -Production systems, Control
+strategies, Search strategies. Problem characteristics, Production system
+characteristics - Specialized productions system- Problem solving methods –
+Problem graphs, Matching, Indexing and Heuristic functions -Hill ClimbingDepth first and Breath first, Constraints satisfaction – Related algorithms,
+Measure of performance and analysis of search algorithms.
+
+2. REPRESENTATION OF KNOWLEDGE: Game playing – Knowledge
+representation, Knowledge representation using Predicate logic, Introduction to
+predicate calculus, Resolution, Use of predicate calculus, Knowledge
+representation using other logic-Structured representation of knowledge.
+
+3. KNOWLEDGE INFERENCE: Knowledge representation -Production based
+system, Frame based system. Inference – Backward chaining, Forward chaining,
+Rule value approach, Fuzzy reasoning – Certainty factors, Bayesian TheoryBayesian Network-Dempster – Shafer theory.
+
+4. PLANNING AND MACHINE LEARNING: Basic plan generation systems –
+Strips -Advanced plan generation systems – K strips - Strategic explanations -
+Why, Why not and how explanations. Learning- Machine learning, adaptive
+Learning.
+
+5. EXPERT SYSTEMS: Expert systems – Architecture of expert systems, Roles
+of expert systems – Knowledge Acquisition – Meta knowledge, Heuristics.
+Typical expert systems – MYCIN, DART, XOON, Expert systems shells.
+
+====================================================================================
+
+Unit 14: Fundamental of E-Commerce
+------------------------------------
+1. Introduction to Electronic Commerce: Introduction of commerce, Electronic
+commerce framework, electronic commerce and media convergence, the
+anatomy of e-commerce application.
+
+2. The Network for Electronic Commerce: Need of network, market forces
+influencing the I-way, components of I-way, network access equipment, and
+global information distribution network.
+
+3. The Internet as a Network Infrastructure: Introduction, the Internet terminology,
+NSFNET: Architecture and Components, Internet governance: The Internet
+Society. 
+
+4. Network Security & Firewalls: Client-Server network security, security threats
+in client-server, firewalls and network security, data & message security,
+encrypted documents and electronic mail.
+
+5. Electronic Commerce & World Wide Web: Introduction, architectural
+framework for electronic commerce, WWW as an architecture, security in the
+web.
+
+6. Consumer Oriented Electronic Commerce: Introduction, consumer oriented
+application, mercantile process models, mercantile models from the consumer’s
+perspective, mercantile models from the merchant’s perspective.
+
+7. Electronic Payment Systems: Introduction, types of electronic payment system,
+digital token based electronic payment systems, smart cards and electronic
+payment systems, credit cards systems, Threat on electronic payment system.
+
+8. Inter-organizational Commerce & Electronic Data Interchange: Introduction,
+EDI application in business, EDI: legal, security, and privacy issues, EDI and
+electronic commerce.
+
+9. The Corporate Digital Library: Introduction, dimensions of electronic
+commerce systems, types of digital documents, Issues behind document
+infrastructure, corporate data warehouses.
+
+====================================================================================
+Unit 15: Multimedia
+--------------------
+1. Definition - Classification - Multimedia application -Multimedia Hardware -
+Multimedia software - CDROM - DVD.
+
+2. Multimedia Audio: Digital medium - Digital audio technology - sound cards -
+recording - editing - MP3 - MIDI fundamentals - Working with MIDI - audio
+file formats - adding sound to Multimedia project.
+
+3. Multimedia Text: Text in Multimedia -Multimedia graphics: coloring - digital
+imaging fundamentals - development and editing - file formats - scanning and
+digital photography.
+
+4. Multimedia Animation: Computer animation fundamentals - Kinematics -
+morphing - animation s/w tools and techniques. Multimedia Video: How video
+works - broadcast video standards - digital video fundamentals – digital video
+production and editing techniques - file formats.
+
+5. Multimedia Project: stages of project - Multimedia skills - design concept -
+authoring - planning and costing –Multimedia Team. Multimedia-looking
+towards Future: Digital Communication and New Media, Interactive Television,
+Digital Broadcasting, Digital Radio, Multimedia Conferencing 
